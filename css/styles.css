@@ -161,3 +161,12 @@ font-weight: normal;
     justify-content: space-evenly;
     align-items: center;
 }
+/*  Contacto   */
+.formulario{
+    background-color: var(--gris);
+    width: min(60rem, 100%); /*Utilizar el valor mas pequeño.*/
+    margin: 0 auto;
+}
+.formulario fieldset{
+    border: none;
+}
